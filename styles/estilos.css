@@ -120,30 +120,9 @@ height: 100%;
       margin: 0;
        padding: 0;  
        overflow-x: hidden;
-        /*
        
-       
-       */
      
-     /* background-image: url("../assets/foto_grupal1.jpg");
-     
-       
-     background-color: rgb(29, 28, 28);
-      background-color: rgb(24, 25, 32); 
-    
-    */
-      background: linear-gradient(90deg, rgb(216, 114, 114) 0%, rgb(63, 6, 6) 40%, rgb(26, 12, 12) 100%);
-     
-     background: linear-gradient(90deg, rgb(229, 192, 162) 0%, rgb(193, 152, 137) 3%, rgb(158, 127, 127) 100%);
-     
-      
-     background: linear-gradient(90deg, rgb(49, 49, 48) 0%, rgb(129, 131, 169) 30%, rgb(85, 83, 83) 100%);
-      
-     background: linear-gradient(90deg, rgb(13, 13, 31) 0%, rgb(128, 27, 64) 25%, rgb(168, 143, 153) 50%, rgb(128, 27, 64) 75%,rgb(13, 13, 31) 100%);
-     background: linear-gradient(210deg, rgb(39, 38, 38) 0, rgb(6, 40, 38) 40%, #0e4648 60%, rgb(74, 71, 71) 80%, black 100%);
-
-     background: linear-gradient(90deg, rgb(13, 13, 31) 0%, rgb(64, 82, 121) 20%, rgb(141, 162, 202) 50%, rgb(64, 82, 121) 80%, rgb(13, 13, 31) 100%);
-     background: linear-gradient(90deg, black 0%, rgb(59, 67, 87) 20%, rgb(141, 162, 202) 50%, rgb(59, 67, 87) 80%, black 100%);
+    background: linear-gradient(90deg, black 0%, rgb(116, 131, 169) 20%, rgb(141, 162, 202) 50%, rgb(116, 131, 169) 80%, black 100%);
  
     
       }
