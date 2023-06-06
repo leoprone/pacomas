@@ -122,7 +122,7 @@
         box-shadow: 0 2px 0.5rem 0.5rem rgb(36, 29, 29);
         background: linear-gradient(90deg, rgb(38, 36, 36) 0%,  rgb(79, 50, 50) 20%, rgb(103, 50, 50) 45%,rgb(103, 50, 50) 55%, rgb(79, 50, 50) 70%, rgb(18, 17, 17) 100%);
   
-        background-size: 10%;
+        background-size: 20%;
         color: rgb(236, 221, 221);
         font-weight: 100;
         filter: blur(0.09rem);
